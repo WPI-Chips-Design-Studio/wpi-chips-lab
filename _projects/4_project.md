@@ -2,6 +2,7 @@
 layout: page
 title: project 4
 description: another without an image
+selected: true
 img:
 importance: 3
 category: fun

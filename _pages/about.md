@@ -31,6 +31,10 @@ Welcome to the WPI CHIPS Design Studio!
 
 We are a research laboratory at Worcester Polytechnic Institute dedicated to the design and fabrication of custom integrated circuits. Our work spans a range of cutting-edge research areas, including biomedical sensing, image sensor design, and power management ICs; pushing the boundaries of what's possible in modern chip design.
 
+## featured projects
+
+{% include selected_projects.liquid %}
+
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
