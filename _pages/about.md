@@ -1,10 +1,9 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /
 subtitle: "Ay's on the prize"
 
-<!--<a href='#'>-->
 profile:
   align: right
   image: prof_pic.jpg
