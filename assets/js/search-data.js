@@ -427,7 +427,7 @@ ninja.data = [{
           title: '8-bit Flash ADC for CMOS Image Sensor Readout',
           description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
           section: "Projects",handler: () => {
-              window.location.href = "/wpi-chips-lab/projects/flash_adc/";
+              window.location.href = "/wpi-chips-lab/projects/frankie-thesis/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
