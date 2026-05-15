@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wpi-chips.github.io/al-folio/sitemap.xml
+Sitemap: https://wpi-chips-design-studio.github.io/wpi-chips-lab/sitemap.xml
