@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Atwater Kent Labratories, 225</p>
+    <p>Atwater Kent Laboratories,&nbsp;225</p>
     <p>100 Institute Road</p>
     <p>Worcester, MA 01609</p>
 
