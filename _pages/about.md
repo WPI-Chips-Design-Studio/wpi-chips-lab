@@ -29,13 +29,11 @@ latest_posts:
 
 Welcome to the WPI CHIPS Design Studio!
 
-We are a research laboratory at Worcester Polytechnic Institute dedicated to the design, fabrication, and characterization of custom integrated circuits. In 2024, 
+We are a research laboratory at Worcester Polytechnic Institute dedicated to the design, fabrication, and characterization of custom integrated circuits. 
 
-Our work spans a range of cutting-edge research areas, including biomedical sensing, image sensor design, and power management ICs — pushing the boundaries of what's possible in modern chip design.
+In the spring of 2024, Dr. Ay and Ibrahim Bozyel joined WPI to expand the undergraduate microelectronics program with over 20 years of combined experiecnce in industry and academia. The hands-on approach to learning at WPI, like our undergraduate Major Qualifying Project's (MQP), provides a unique opportunity to gain real experience in chip design. This annual project with different student groups, supported by relavant microelectronics coursework taught by Dr. Ay and Ibrahim Bozyel, allows us to send undergraduate students out of WPI already having taped-out their own chip. Check out the Featured Projects section below to see some of our undergraduate student's work!
 
-At the CHIPS Design Studio, we take an end-to-end approach to integrated circuit development. From architecture and circuit-level design through physical layout, fabrication, and full electrical characterization, our team develops chips that address real-world challenges in medicine, imaging, and energy-efficient computing. We collaborate closely with industry partners and research institutions to ensure our designs meet the demands of practical deployment.
-
-Our students gain hands-on experience with industry-standard EDA tools, mixed-signal design methodologies, and rigorous testing frameworks. Whether you are a prospective student, a research collaborator, or an industry partner, we welcome the opportunity to connect and explore how custom silicon can solve your hardest problems.
+Our published research tackles real 
 
 ## featured projects
 
