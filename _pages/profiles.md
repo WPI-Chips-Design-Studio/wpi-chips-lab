@@ -21,5 +21,12 @@ profiles:
     more_info: >
       <p>PhD Candidate, ECE</p>
       <p>Worcester Polytechnic Institute</p>
+  - align: left
+    image: people/frankie-prof-pic.png
+    content: francesco-marrocco.md 
+    image_circular: true
+    more_info: >
+      <p>Assosciate Researcher, ECE</p>
+      <p>Worcester Polytechnic Institute</p>
       
 ---
