@@ -6,7 +6,7 @@ subtitle: "Ay's on the prize"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: group-pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Atwater Kent Laboratories,&nbsp;225</p>
