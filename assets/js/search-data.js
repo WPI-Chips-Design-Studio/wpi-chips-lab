@@ -421,31 +421,6 @@ ninja.data = [{
           description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
           section: "Projects",handler: () => {
               window.location.href = "/wpi-chips-lab/projects/frankie-thesis/";
-            },},{id: "projects-8-bit-flash-adc-for-cmos-image-sensor-readout",
-          title: '8-bit Flash ADC for CMOS Image Sensor Readout',
-          description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
-          section: "Projects",handler: () => {
-              window.location.href = "/wpi-chips-lab/projects/p1/";
-            },},{id: "projects-8-bit-flash-adc-for-cmos-image-sensor-readout",
-          title: '8-bit Flash ADC for CMOS Image Sensor Readout',
-          description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
-          section: "Projects",handler: () => {
-              window.location.href = "/wpi-chips-lab/projects/p2/";
-            },},{id: "projects-8-bit-flash-adc-for-cmos-image-sensor-readout",
-          title: '8-bit Flash ADC for CMOS Image Sensor Readout',
-          description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
-          section: "Projects",handler: () => {
-              window.location.href = "/wpi-chips-lab/projects/p3/";
-            },},{id: "projects-8-bit-flash-adc-for-cmos-image-sensor-readout",
-          title: '8-bit Flash ADC for CMOS Image Sensor Readout',
-          description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
-          section: "Projects",handler: () => {
-              window.location.href = "/wpi-chips-lab/projects/p4/";
-            },},{id: "projects-8-bit-flash-adc-for-cmos-image-sensor-readout",
-          title: '8-bit Flash ADC for CMOS Image Sensor Readout',
-          description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
-          section: "Projects",handler: () => {
-              window.location.href = "/wpi-chips-lab/projects/p5/";
             },},{id: "projects-development-of-a-secure-cmos-image-sensor",
           title: 'Development of a Secure CMOS Image Sensor',
           description: "Undergraduate tapeout of encrypted CMOS Imager in 180nm process.",
