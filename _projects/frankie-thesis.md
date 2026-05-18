@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 8-bit Flash ADC for CMOS Image Sensor Readout
+title: Characterization of 8-bit Flash ADC for CMOS Image Sensor Readout
 description: A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization
 img: assets/img/projects/frankie-thesis-thumbnail.png
 importance: 1
-category: research
+category: Master's Thesis 
 selected: true
 related_publications: true
 ---

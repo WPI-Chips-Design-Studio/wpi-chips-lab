@@ -29,15 +29,12 @@ latest_posts:
 
 The CHIPS Design Studio, led by Dr. Suat Ay, was established in 2024 to expand WPI's microelectronics curriculum and conduct research on custom integrated circuits.
 
- 
+The Major Qualifying Project, WPI's senior capstone project, offers a unique opportunity for undergraduate students to design, tapeout, and characterize a real chip. Visit the Projects page to view past undergraduate and graduate projects.
 
-on the design, fabrication, and characterization of integrated circuits with two main 
-
-
-
-The hands-on approach to learning at WPI, like our undergraduate Major Qualifying Project's (MQP), provides a unique opportunity to gain real experience in chip design. This annual project with different student groups, supported by relavant microelectronics coursework taught by Dr. Ay and Ibrahim Bozyel, allows us to send undergraduate students out of WPI already having taped-out their own chip. Check out the Featured Projects section below to see some of our undergraduate student's work!
+Additionally, our published research focuses on designing chips for special applications like biomedical or sensing. 
 
 
+<div style="clear:both"></div>
 
 ## Featured Projects
 
