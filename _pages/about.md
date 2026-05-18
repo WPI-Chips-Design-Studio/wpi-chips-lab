@@ -27,15 +27,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the WPI CHIPS Design Studio!
+The CHIPS Design Studio, led by Dr. Suat Ay, was established in 2024 to expand WPI's microelectronics curriculum and conduct research on custom integrated circuits.
 
-We are a research laboratory at Worcester Polytechnic Institute dedicated to the design, fabrication, and characterization of custom integrated circuits. 
+ 
 
-In the spring of 2024, Dr. Ay and Ibrahim Bozyel joined WPI to expand the undergraduate microelectronics program with over 20 years of combined experiecnce in industry and academia. The hands-on approach to learning at WPI, like our undergraduate Major Qualifying Project's (MQP), provides a unique opportunity to gain real experience in chip design. This annual project with different student groups, supported by relavant microelectronics coursework taught by Dr. Ay and Ibrahim Bozyel, allows us to send undergraduate students out of WPI already having taped-out their own chip. Check out the Featured Projects section below to see some of our undergraduate student's work!
+on the design, fabrication, and characterization of integrated circuits with two main 
 
-Our published research tackles real 
 
-## featured projects
+
+The hands-on approach to learning at WPI, like our undergraduate Major Qualifying Project's (MQP), provides a unique opportunity to gain real experience in chip design. This annual project with different student groups, supported by relavant microelectronics coursework taught by Dr. Ay and Ibrahim Bozyel, allows us to send undergraduate students out of WPI already having taped-out their own chip. Check out the Featured Projects section below to see some of our undergraduate student's work!
+
+
+
+## Featured Projects
 
 {% include selected_projects.liquid %}
 
