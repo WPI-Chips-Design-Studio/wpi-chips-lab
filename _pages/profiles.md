@@ -32,4 +32,4 @@ profiles:
 ---
 
 
-[MQP Students](/mqp-students/)
+[MQP Students]({{ '/mqp-students/' | relative_url }})
