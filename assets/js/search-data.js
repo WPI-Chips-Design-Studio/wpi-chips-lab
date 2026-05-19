@@ -409,8 +409,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-8-bit-flash-adc-for-cmos-image-sensor-readout",
-          title: '8-bit Flash ADC for CMOS Image Sensor Readout',
+          section: "News",},{id: "projects-characterization-of-8-bit-flash-adc-for-cmos-image-sensor-readout",
+          title: 'Characterization of 8-bit Flash ADC for CMOS Image Sensor Readout',
           description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
           section: "Projects",handler: () => {
               window.location.href = "/wpi-chips-lab/projects/frankie-thesis/";
