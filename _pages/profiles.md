@@ -26,7 +26,7 @@ profiles:
     content: francesco-marrocco.md 
     image_circular: true
     more_info: >
-      <p>Assosciate Researcher, ECE</p>
+      <p>Independent Researcher, ECE</p>
       <p>Worcester Polytechnic Institute</p>
       
 ---

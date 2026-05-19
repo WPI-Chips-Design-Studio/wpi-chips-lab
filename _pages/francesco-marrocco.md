@@ -1,7 +1,6 @@
-## Francesco Marrocco  — Assosciate Researcher 
+## Francesco Marrocco
 
-
-ECE M.S. candidate at WPI (May 2026) with hands-on experience in mixed-signal IC design and power electronics. Designed and taped out an 8-bit Flash ADC through TSMC on a 180 nm process; currently characterizing it as a Master's thesis. Concurrently working as a power supply design engineer at GlobTek on medical-grade SMPS's. Experienced in analog/mixed-signal design, power electronics, and hardware engineering.
+Frankie graduated with his M.S. in Electrical and Computer Engineering from WPI in 2026, and has worked at GlobTek Inc. designing medical-grade power supplies since 2025. After his thesis was completed, he has volunteered his time to chip testing and characterization for the CHIPS Design Studio. 
 
 - M.S. 2026 — Worcester Polytechnic Institute, Electrical and Computer Engineering
 - B.S. 2025 — Worcester Polytechnic Institute, Electrical and Computer Engineering 
