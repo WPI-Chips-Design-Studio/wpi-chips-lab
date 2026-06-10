@@ -414,6 +414,11 @@ ninja.data = [{
           description: "A 4 MS/s 8-bit Flash ADC in 180 nm CMOS with full IEEE 1241 characterization",
           section: "Projects",handler: () => {
               window.location.href = "/wpi-chips-lab/projects/frankie-thesis/";
+            },},{id: "projects-crimson-power-management-ic",
+          title: 'CRIMSON Power Management IC',
+          description: "Intelligent PMIC for IoT/edge systems that require resource monitoring",
+          section: "Projects",handler: () => {
+              window.location.href = "/wpi-chips-lab/projects/pmic-mqp/";
             },},{id: "projects-development-of-a-secure-cmos-image-sensor",
           title: 'Development of a Secure CMOS Image Sensor',
           description: "Undergraduate tapeout of encrypted CMOS Imager in 180nm process.",
