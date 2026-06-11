@@ -28,7 +28,11 @@ profiles:
     more_info: >
       <p>Independent Researcher, ECE</p>
       <p>Worcester Polytechnic Institute</p>
-      
+  - align: center
+    image: 
+    content: mqp-students.md 
+    image_circular: false 
+    more_info:
 ---
 
 

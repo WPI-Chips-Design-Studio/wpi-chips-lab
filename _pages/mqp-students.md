@@ -1,21 +1,22 @@
----
-layout: page
-title: MQP Students
-permalink: /mqp-students/
-description: Undergraduate students who completed their Major Qualifying Project with the CHIPS Design Studio.
-nav: false
----
+# **MQP Students**
+Undergraduate students who completed their Major Qualifying Project with the CHIPS Design Studio.
 
-## Project Title Here
-*AY 2023–2024*
+## CRIMSON Power Management IC
+*WPI 2025–2026*
+- Wilding, Cameron
+- Ramsay, Luke
+- Danise, Peter
+- Pavliqi, Ilia
+- Borsari, Leo
+- Canovas, Diego
+- Tropea, Luca
+- Garvey, Dennis
 
-- Student Name
-- Student Name
-- Student Name
+## Development of a Secure CMOS Image Sensor
+*WPI 2024–2025*
+- Liu, Hubert
+- Marrocco, Francesco
+- Liu, Kelu
+- Xue, Yuran
+- Miu, Philip
 
-## Project Title Here
-*AY 2024–2025*
-
-- Student Name
-- Student Name
-- Student Name
