@@ -31,8 +31,7 @@ The CHIPS Design Studio, led by Dr. Suat Ay, was established in 2024 to expand W
 
 The Major Qualifying Project, WPI's senior capstone project, offers a unique opportunity for undergraduate students to design, tapeout, and characterize a real chip. Visit the Projects page to view past undergraduate and graduate projects.
 
-Additionally, our published research focuses on designing chips for special applications like biomedical or sensing. 
-
+Additionally, our published research focuses on integrated circuit solutions for biomedical or and sensing applications. See our latest publications for more info. 
 
 <div style="clear:both"></div>
 
